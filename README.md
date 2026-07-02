@@ -10,6 +10,7 @@ Below is the directory map of the topics covered in this repository. Click on an
 
 | Module / Topic | Description & Core Concepts Covered |
 | :--- | :--- |
+| 📁 [00_Basics](file:///d:/DSA_JAVA/00_Basics) | Patterns. |
 | 📁 [01_Arrays](file:///d:/DSA_JAVA/01_Arrays) | Arrays basics, Prefix Sum, Kadane's Algorithm, Trapped Rainwater, Pairs & Subarrays. Includes assignment PDF & solutions. |
 | 📁 [02_Sorting](file:///d:/DSA_JAVA/02_Sorting) | Basic Sorting Algorithms: Bubble Sort, Selection Sort, Insertion Sort, Counting Sort, and Inbuilt Sorting. |
 | 📁 [03_2D Arrays](file:///d:/DSA_JAVA/03_2D%20Arrays) | Multi-dimensional arrays, matrix traversals, search algorithms on 2D grids. |
