@@ -43,7 +43,7 @@ public class Cheapest_Flights_Within_K_Steps_Using_Dijekstra_With_Adjacency_List
             }
             for( int i = 0 ; i < graph[curr.v].size() ; i++ ) {
                 Edge e = graph[curr.v].get(i);
-                int u = e.src;
+                // int u = e.src;
                 int v = e.dest;
                 int wt = e.price;
 
