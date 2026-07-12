@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "java.project.referencedLibraries": []
+}
